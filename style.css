@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  min-height: 100vh;
+  color: rgb(65, 105, 225, 0.7);
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.big-img {
+  background: url("water.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.small-img {
+  background: url("mount.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.folder-img {
+  background: url("city.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

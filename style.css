@@ -19,16 +19,19 @@ div {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
 }
 
 .small-img {
   background: url("mount.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 .folder-img {
   background: url("city.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
